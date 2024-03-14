@@ -1,5 +1,6 @@
 ## Requisitos
 - OpenJDK 17 >
+- MacOS ou Linux
 
 ## Passo a passo
 ```bash
